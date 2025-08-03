@@ -1,5 +1,7 @@
 
 //omkargit a
+//reet
+//avani
 /*const a=5;
 console.log('the value of a is '+a);
 console.log(`the value of a is also ${a}`);*/
